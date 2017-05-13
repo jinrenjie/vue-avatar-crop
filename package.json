@@ -1,0 +1,32 @@
+{
+  "name": "vue-avatar-crop",
+  "version": "1.0.0",
+  "description": "A vue plgin for avatar crop and upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jinrenjie/vue-avatar-crop.git"
+  },
+  "keywords": [
+    "vue-crop",
+    "vue-avatar-crop",
+    "crop",
+    "vue-corp",
+    "avatar"
+  ],
+  "author": "George",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jinrenjie/vue-avatar-crop/issues"
+  },
+  "homepage": "https://github.com/Jinrenjie/vue-avatar-crop#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-runtime": "^6.23.0"
+  }
+}
