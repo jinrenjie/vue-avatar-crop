@@ -1,6 +1,6 @@
 {
   "name": "vue-avatar-crop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A vue plgin for avatar crop and upload",
   "main": "index.js",
   "scripts": {
